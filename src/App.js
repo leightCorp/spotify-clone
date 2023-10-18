@@ -1,10 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import Dashboard from "./components/Dashboard";
+import Footer from "./components/Footer";
+import Home from "./components/Home";
 
 function App() {
   return (
-    <div>
-      
+    <div className="h-full flex flex-col">
+      <div className=" h-full flex flex-grow">
+        <Dashboard />
+        <Home />
+      </div>
+      <Footer />
     </div>
   );
 }
