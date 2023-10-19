@@ -9,7 +9,10 @@ module.exports = {
         footer_end: "#509BF5",
       },
       height: {
-        footer: "9%",
+        footer: "8.5%",
+      },
+      width: {
+        dashboard: "31%",
       },
     },
   },

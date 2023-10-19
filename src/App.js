@@ -1,14 +1,10 @@
-import Dashboard from "./components/Dashboard";
 import Footer from "./components/Footer";
-import Home from "./components/Home";
+import Main from "./components/Main";
 
 function App() {
   return (
-    <div className="h-full flex flex-col">
-      <div className=" h-full flex flex-grow">
-        <Dashboard />
-        <Home />
-      </div>
+    <div className="h-full flex flex-col p-1">
+      <Main />
       <Footer />
     </div>
   );

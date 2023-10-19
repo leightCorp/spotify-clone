@@ -3,7 +3,7 @@ import Nav from "./dashboard/Nav";
 
 function Dashboard() {
   return (
-    <div className="flex flex-col w-2/6 h-full">
+    <div className="flex flex-col w-dashboard h-full">
       <Nav />
       <Library />
     </div>
