@@ -12,7 +12,7 @@ module.exports = {
         footer: "8.5%",
       },
       width: {
-        dashboard: "31%",
+        dashboard: "420px",
       },
     },
   },
