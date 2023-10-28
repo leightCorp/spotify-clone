@@ -1,0 +1,52 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "image": "https://images.genius.com/9981be1fb5fa67fb8ba50d3f54b7b73e.640x640x1.jpg",
+      "title": "Today's top hits",
+      "description": "Taylor swift on top of the hottest 50"
+    },
+    {
+      "id": 2,
+      "image": "https://images.genius.com/28752ad80d6f278d46afc9f629150931.640x640x1.jpg",
+      "title": "RapCaviar",
+      "description": "Music from Gucci Mane, Kodak Black and..."
+    },
+    {
+      "id": 3,
+      "image": "https://i.scdn.co/image/ab67706f000000027bcd851d16216fae85f63a28",
+      "title": "All Out 2010s",
+      "description": "The biggest songs of the 2010s"
+    },
+    {
+      "id": 4,
+      "image": "https://i.scdn.co/image/ab67706f0000000278b4745cb9ce8ffe32daaf7e",
+      "title": "Rock Classics",
+      "description": "Rock legends and epic songs that continues to..."
+    },
+    {
+      "id": 5,
+      "image": "https://i.scdn.co/image/ab67706f00000002b60db5d1bcdd9c4fd1ebcffe",
+      "title": "Chill Hits",
+      "description": "Kick back to the best new and recent chill hits"
+    },
+    {
+      "id": 6,
+      "image": "https://i.scdn.co/image/ab67706f000000028e82f1b03e71ee146686ec2b",
+      "title": "Viva Latino",
+      "description": "Today's top Latin hits, elevando neustra music..."
+    },
+    {
+      "id": 7,
+      "image": "https://i.scdn.co/image/ab67706f00000002db32a17c1f5291b19317b62e",
+      "title": "Mega Hit Mix",
+      "description": "A mega mix of 75 favorites from the last fe..."
+    },
+    {
+      "id": 8,
+      "image": "https://i.scdn.co/image/ab67706f000000027876fe166a29b8e6b8db14da",
+      "title": "All Out 80s",
+      "description": "The biggest songs of the 1980s. Cover:Michael..."
+    }
+  ]
+}
